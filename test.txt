@@ -1,1 +1,8 @@
+partie de la branche main
 ceci est un fichier de test différent de celui de la branche yo, ça va faire des conflits lol
+
+partie de la branche yo: 
+ceci est un
+
+test test
+
